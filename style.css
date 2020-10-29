@@ -1,0 +1,87 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 35px;
+}
+.name_highlight{
+    color: orange;
+}
+.text{
+    font-family: 'Caveat', cursive;
+    width: 100%;
+    font-size: 20px;
+
+}
+.text:hover{
+    color: blue;
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 4%;
+}
+#boro{
+    font-size: 35px;
+}
+.half img{
+    width: 100%;
+}
+
+.top{
+   background-image: url("back.png");
+   background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 100px;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font width: 700px;
+}
+.dream{
+    background-image: url("area.png");
+    background-repeat: no-repeat;
+    background-position: right;
+ }
+ .single_exp{
+     box-shadow: 10px 10px 40px gray;
+     border-radius: 10px;
+     height: 50%;
+     margin-left: 2%;
+ }
+ #full{
+     border-left: 7px solid;
+     border-image: linear-gradient(180deg, lightsalmon,tomato);
+     border-image-slice: 1;
+ }
+ #baby{
+    border-left: 7px solid;
+    border-image: linear-gradient( 180deg, blue, cyan);
+    border-image-slice: 1;
+}
+footer{
+    color: blueviolet;
+    text-align: center;
+    text size: 10px;
+}
+h1:hover{
+    color: red;
+}
+h3:hover{
+    color: blueviolet;
+}
+h2:hover{
+    color: rgb(250, 36, 36);
+}
+ 
